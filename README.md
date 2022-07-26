@@ -13,7 +13,7 @@ Finance Tracker is a web app implemented using Flask and bootstrap that works li
 
 * Python
 * Flask
-* SQLAlchemy
+* SQLite3
 (Other dependancies can be found out in te requirements.txt file)
 
 ## Installation-
