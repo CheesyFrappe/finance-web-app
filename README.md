@@ -11,17 +11,17 @@ Finance Tracker is a web app implemented using Flask and bootstrap that works li
 
 <hr/>
 
-![1](https://user-images.githubusercontent.com/80858788/180990308-206ae00e-ebe0-44c8-987e-1356388affc4.png)
+![1](https://user-images.githubusercontent.com/80858788/180996239-0622424a-86b3-41bb-884f-128b18e8ac0f.png)
 <br/>
-![2](https://user-images.githubusercontent.com/80858788/180990399-924dcf41-1be7-4fb1-b360-945b6f50ca8e.png)
+![2](https://user-images.githubusercontent.com/80858788/180996249-0ae614e6-e122-4bd0-89f7-7b59fc0a2fee.png)
 <br/>
-![3](https://user-images.githubusercontent.com/80858788/180990598-3789d55e-36b2-4452-8d6b-2f2144c00fc7.png)
+![3](https://user-images.githubusercontent.com/80858788/180996257-ca5b92da-bfe3-4947-8735-4b580444345f.png)
 <br/>
-![4](https://user-images.githubusercontent.com/80858788/180990666-07099d04-92c4-45aa-a132-6c321cde7c35.png)
+![4](https://user-images.githubusercontent.com/80858788/180996275-dd6b4a9b-65cc-4f63-84e7-30b188c56132.png)
 <br/>
-![5](https://user-images.githubusercontent.com/80858788/180990749-7f4f9fde-f379-46b8-9501-044b71a5e438.png)
+![5](https://user-images.githubusercontent.com/80858788/180996279-935517b3-e7c4-4930-a5bd-275690de271e.png)
 <br/>
-![6](https://user-images.githubusercontent.com/80858788/180990769-64e215a8-f2e7-4271-814b-54463519a5c4.png)
+![6](https://user-images.githubusercontent.com/80858788/180996285-6abd66a6-2ad4-408f-be1f-2554ebabcd98.png)
 
 
 ## Tech Stack-
